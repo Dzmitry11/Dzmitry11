@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dzmitry11
-- 👀 I’m interested in JS Front End, Python, DevOps, Data Science
-- 🌱 I’m currently learning JS and Python
-- 💞️ I’m looking to collaborate on JS and Python projects for begginers. Also looking for internship.
+- 👀 I’m interested in Java SE, Back End, Python, SQL, C# Data Science.
+- 🌱 I’m currently learning Cloud Development AWS (Java SE) in Jensen Univercity
+- 💞️ I’m looking for collaboration in these professional fields projects. Also looking for internship (LIA).
 - 📫 How to reach me ... You can write me on my e-mail: 89850579967n@gmail.com
 
 <!---
